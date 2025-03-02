@@ -1,5 +1,9 @@
 digit-recognizer/
 │
+├── Project structure/
+|
+├── dataset/
+|
 ├── backend/
 │   ├── app.py
 │   ├── mnist.h5
@@ -9,5 +13,5 @@ digit-recognizer/
 │   ├── index.html
 │   ├── styles.css
 │   ├── script.js
-│
+|
 ├── README.md
