@@ -1,0 +1,13 @@
+digit-recognizer/
+│
+├── backend/
+│   ├── app.py
+│   ├── mnist.h5
+│   ├── requirements.txt
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│
+├── README.md
